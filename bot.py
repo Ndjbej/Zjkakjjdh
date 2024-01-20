@@ -11,7 +11,7 @@ db = dt("data.sqlite", 'fuck')
 if not db.get("checker"):
   db.set('checker', None)
 if not db.get("admin_list"):
-  db.set('admin_list', [id, 6324688689,6324688689])
+  db.set('admin_list', [id, 6691207007,6691207007])
 if not db.get('ban_list'):
   db.set('ban_list', [])
 if not db.get('sessions'):
